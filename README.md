@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 ### **Personal Statistics**
 
-<p><img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api/top-langs?username=humbertoyusta&show_icons=true&locale=en&layout=compact" alt="humbertoyusta" /></p>
+<p><img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api/top-langs?username=humbertoyusta&show_icons=true&locale=en&layout=compact&exclude=roff" alt="humbertoyusta" /></p>
 <p><img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api?username=humbertoyusta&show_icons=true&locale=en" alt="humbertoyusta" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humbertoyusta&" alt="humbertoyusta" /></p>
