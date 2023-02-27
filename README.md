@@ -27,10 +27,10 @@
   <p>
     <img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api/top-langs?username=albertolg101&show_icons=true&locale=en&layout=compact&" alt="albertolg101" />
   </p>
-  <p>
+  <!-- <p>
     <img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api?username=albertolg101&show_icons=true&locale=en" alt="albertolg101" />
   </p>
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albertolg101&" alt="albertolg101" />
-  </p>
+  </p> -->
 </div>
