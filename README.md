@@ -1,7 +1,7 @@
 ### Hello everyone 👋
 
 - I’m @albertolg101
-- 🔭 Currently working on XETID, as Data Scientist developing an Advertisement Recommendation System for [Tiket](ticket.xutil.cu).
+- 🔭 Currently working on XETID, as Data Scientist developing an Advertisement Recommendation System for [Ticket](https://ticket.xutil.net).
 - 👀 Interested in Machine Learning 💖, Math and Web Development.
 - 🤔 In Competitive Programming world since 2019:
   - I've got [Honourable Mention](https://stats.ioinformatics.org/people/7077) at [IOI 2022](https://ioi2022.id).
