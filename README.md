@@ -1,18 +1,18 @@
 ### Hello everyone 👋
 
 - I’m @albertolg101
-- 🔭 Currently working on XETID, as Data Scientist developing an Advertisement Recommendation System for [Ticket](https://ticket.xutil.net).
-- 👀 Interested in Machine Learning 💖, Math and Web Development.
+- 🔭 Working as DevOps Engineer since 2022.
+- 👀 Interested in Machine Learning 💖, Math and Backend Development.
 - 🤔 In Competitive Programming world since 2019:
   - I've got [Honourable Mention](https://stats.ioinformatics.org/people/7077) at [IOI 2022](https://ioi2022.id).
   - I'm [Candidate Master](https://codeforces.com/profile/albertolg101) at codeforces.
   - I've got Gold medal at the Ibero-American Competition in Informatics (CIIC 2021).
-- 📄 [Resume](https://github.com/albertolg101) <-- What i've done
+- 📄 [Resume (CV)](https://github.com/albertolg101/resume) <-- What i've done
 - 📫 How to reach me: 
   - [Telegram](https://t.me/albertolg101)
   - [LinkedIn](https://www.linkedin.com/in/alberto-leyva-guerra-63797a220/)
   - [Email](mailto:albertoleyvaguerra@gmail.com)
-
+ 
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞 I’m looking to collaborate on ... -->
 <!-- - ⚡ Fun fact: ... -->
